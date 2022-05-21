@@ -6,6 +6,7 @@ Genome-Wide Association Study (GWAS) is a technique used to look for genome sequ
 
 ## GWAS
 Donwload and unpack:
+
 wget https://broad-ukb-sumstats-us-east-1.s3.amazonaws.com/round2/additive-tsvs/4194_irnt.gwas.imputed_v3.both_sexes.tsv.bgz -O 4194_irnt.gwas.imputed_v3.both_sexes.tsv.gz
 wget https://broad-ukb-sumstats-us-east-1.s3.amazonaws.com/round2/annotations/variants.tsv.bgz -O variants.tsv.gz
 gunzip /pulse_rate/*.gz
