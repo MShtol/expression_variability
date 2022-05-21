@@ -2,7 +2,14 @@
 
 Genome-Wide Association Study (GWAS) is a technique used to look for genome sequence variations that affect the development of complex traits. In recent years, GWAS results have been published for thousands of different traits, including two of the world's largest datasets, UK Biobank and Finngen. It is known that changes in gene expression levels are one of the main mechanisms that determine the small effects of genetic variants detected during GWAS. In this project, we test the hypothesis that not only the level of gene expression, but also the degree of expression variability, is associated with the influence of a gene on complex human traits.
 
+## Reqierements and tools
+In this project Python=3.8 was udes with tje following packages:
+
+
 ## Gtex
+
+wget https://storage.googleapis.com/gtex_analysis_v8/rna_seq_data/GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_tpm.gct.gz
+
 
 ## GWAS
 Donwload and unpack:
@@ -34,7 +41,7 @@ paste -d, ./pulse_rate/variants.tsv ./pulse_rate/4194_irnt.gwas.imputed_v3.both_
 версии программ и команды запуска со всеми параметрами;
 комментарии, почему были выбраны именно такие параметры.
 
-## Reqierements
+
 
 ## Reference
 
