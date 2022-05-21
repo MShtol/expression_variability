@@ -5,6 +5,14 @@ Genome-Wide Association Study (GWAS) is a technique used to look for genome sequ
 ## Reqierements and tools
 In this project Python=3.8 was udes with tje following packages:
 
+In this project both Plink 1.9 and Plink 2.0. You can install from bioconda with following:
+
+`conda install -c bioconda plink`
+
+`conda install -c bioconda plink2`
+
+If you don't have Conda, install it first.
+
 
 ## Gtex
 
