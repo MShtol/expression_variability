@@ -1,5 +1,5 @@
 # Dissecting the role of gene expression variability in complex traits
-by **Mikhail SLizen**  
+by **Mikhail Slizen**  
 supervisor: Yury Barbitoff  
 ***
 Genome-Wide Association Study (GWAS) is a technique used to look for genome sequence variations that affect the development of complex traits. 
