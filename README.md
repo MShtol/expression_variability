@@ -40,7 +40,7 @@ In this project Python=3.8 was udes with tje following packages:
 If you don't have Conda, install it first.
 
 Other:
-- PC RAM >=8Gb - some Plink tastks are memory demanding.
+- PC RAM >=8Gb - some Plink tasks are memory demanding.
 - OS - Ubuntu 20.04
 
 
