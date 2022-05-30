@@ -149,21 +149,25 @@ See - in `gwas_gtex.ipynb`
 Сomparison of metrics' distributions showed following:
 
 
+
+![ranges_mean.png](./images/ranges_mean.png "Comparison of mean ranges")  
+Fig 1. Comparison of distributions of mean ranges for general set and genes with SNPs.  
 pvalue=0.006907539978084667
 
-![ranges_mean.png](./images/ranges_mean.png "Comparison of mean ranges") 
 
+![rangesс_mean.png](./images/rangesc_mean.png "Comparison of mean centered ranges")  
+Fig 2. Comparison of distributions of mean "centered" ranges for general set and genes with SNPs.  
 pvalue=6.83051521303779e-05
 
-![rangesс_mean.png](./images/rangesc_mean.png "Comparison of mean centered ranges")
-
-pvalue=0.006365441230775008
 
 ![ranges_max.png](./images/ranges_max.png "Comparison of max ranges")
+Fig 3. Comparison of distributions of maximal ranges for general set and genes with SNPs.  
+pvalue=0.006365441230775008
 
-pvalue=0.060688442698665315
 
 ![rangesc_max.png](./images/rangesc_max.png "Comparison of max centered ranges")
+Fig 4. Comparison of distributions of maximal "centered" ranges for general set and genes with SNPs.  
+pvalue=0.060688442698665315
 
 
 Therefore, there is a good chance that genes sifnifacntly affected bt SNPs have wider average range of expression.
